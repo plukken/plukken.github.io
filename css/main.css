@@ -853,9 +853,9 @@ header .logo a {
 	top: 0;
 }
 .sticky .logo a {
-	width: 138px;
-	height: 38px;
-	background-size: 138px 38px;
+	width: 120px;
+	height: 35px;
+	background-size: 120px 35px;
 }
 
 /**
@@ -1439,7 +1439,7 @@ a.menu-toggle {
 .process-content .image-part {
 	margin: 0 auto;
 	height: 660px;
-	background-image: url("../images/appdesign.jpg");
+	background-image: url("../../sc.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	-webkit-background-size: contain;
